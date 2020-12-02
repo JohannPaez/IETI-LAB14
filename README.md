@@ -1,3 +1,17 @@
+# IETI-LAB14
+
+## Enunciado
+La guía del laboratorio está disponible [aquí](https://github.com/ieti-eci/3.4-android-geolocation-api).
+
+### Demostración
+
+ <img src="images/Image1.png" width="270" height="540"/>
+ <img src="images/Image2.png" width="270" height="540"/>
+ <img src="images/Image3.png" width="270" height="540"/>
+ <img src="images/Image4.png" width="270" height="540"/>
+ 
+## Autor
+Johann Sebastian Páez Campos - Laboratorio 14 IETI 02/12/2020
 
 # 3.4 Android Geolocation API and Google Maps
 
